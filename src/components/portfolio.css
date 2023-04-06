@@ -1,0 +1,23 @@
+.images {
+    height: 180px;
+    width: 350px;
+    object-fit: cover;
+
+}
+
+
+
+
+.detail {
+    
+    margin-top: 120px;
+}
+
+
+@media screen and (min-width: 768px) {
+    .details {
+        margin-top: 180px;
+        
+
+    }
+}
